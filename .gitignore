@@ -332,3 +332,11 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+
+.DS_Store
+
+gradle/
+
+gradlew.bat
+
+build.gradle
