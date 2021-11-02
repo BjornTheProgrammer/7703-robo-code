@@ -334,9 +334,3 @@ ASALocalRun/
 .localhistory/
 
 .DS_Store
-
-gradle/
-
-gradlew.bat
-
-build.gradle
